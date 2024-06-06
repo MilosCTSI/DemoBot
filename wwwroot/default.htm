@@ -1,0 +1,40 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <script crossorigin="anonymous"
+            src="https://cdn.botframework.com/botframework-webchat/latest/webchat.js"></script>
+    <style>
+        html,
+        body {
+            height: 100%;
+        }
+
+        body {
+            margin: 0;
+        }
+
+        #webchat {
+            height: 100%;
+            width: 100%;
+        }
+    </style>
+</head>
+<body>
+    <div><h2>Somijev najjaci bot</h2></div>
+    <div id="webchat" role="main"></div>
+    <script>
+        window.WebChat.renderWebChat(
+            {
+                directLine: window.WebChat.createDirectLine({
+                    token: 'VYAN8OvcWQc.B2NFIHm4-Z_iW5PeGo7xreP66eHcIgBnVhApJDVt_zo',
+                    domain: 'https://europe.directline.botframework.com/v3/directline'
+                }),
+                userID: 'YOUR_USER_ID',
+                username: 'Web Chat User',
+                locale: 'en-US'
+            },
+            document.getElementById('webchat')
+        );
+    </script>
+</body>
+</html>
