@@ -1,0 +1,72 @@
+[
+  {
+    "id": "1",
+    "Department": "Tourism",
+    "Topic": "Paris",
+    "Body": "Paris is the capital city of France, known for the Eiffel Tower and rich cultural heritage. Best time to visit: April to June, September to November. Attractions: Eiffel Tower (entry fee: 25 EUR, hours: 09:30 AM - 11:45 PM), Louvre Museum (entry fee: 17 EUR, hours: 09:00 AM - 06:00 PM). Hotels: Hotel Paris (location: Downtown Paris, price per night: 150, rating: 4.5), Budget Inn (location: Suburb Paris, price per night: 80, rating: 3.8). Restaurants: Le Gourmet (French Cuisine, rating: 4.7), Bistro Central (Casual Dining, rating: 4.2). Travel tips: Learn a few basic French phrases. Always keep an eye on your belongings, especially in crowded areas.",
+    "Owner": "Tourism Board"
+  },
+  {
+    "id": "2",
+    "Department": "Tourism",
+    "Topic": "Tokyo",
+    "Body": "Tokyo is the bustling capital city of Japan, famous for its modernity and traditional temples. Best time to visit: March to May, September to November. Attractions: Shinjuku Gyoen National Garden (entry fee: 500 JPY, hours: 09:00 AM - 04:30 PM), Meiji Shrine (entry fee: Free, hours: Sunrise to Sunset). Hotels: Tokyo Inn (location: Shinjuku, price per night: 100, rating: 4.0), Luxury Palace (location: Ginza, price per night: 300, rating: 4.8). Restaurants: Sushi Zanmai (Japanese Cuisine, rating: 4.9), Ramen Ichiran (Casual Dining, rating: 4.5). Travel tips: Purchase a prepaid transport card for easy travel. Learn basic Japanese phrases for convenience.",
+    "Owner": "Tourism Board"
+  },
+  {
+    "id": "3",
+    "Department": "Tourism",
+    "Topic": "New York City",
+    "Body": "New York City is a major city in the United States, known for its iconic landmarks like the Statue of Liberty and Times Square. Best time to visit: April to June, September to November. Attractions: Statue of Liberty (entry fee: 18.50 USD, hours: 08:30 AM - 04:00 PM), Central Park (entry fee: Free, hours: 06:00 AM - 01:00 AM). Hotels: The Plaza (location: Manhattan, price per night: 500, rating: 4.7), Budget Hostel (location: Brooklyn, price per night: 70, rating: 4.0). Restaurants: Joe's Pizza (American Cuisine, rating: 4.8), Le Bernardin (French Cuisine, rating: 4.9). Travel tips: Use public transportation to avoid traffic. Visit popular attractions early in the morning to avoid crowds.",
+    "Owner": "Tourism Board"
+  },
+  {
+    "id": "4",
+    "Department": "Tourism",
+    "Topic": "Sydney",
+    "Body": "Sydney is a vibrant city in Australia, known for its Sydney Opera House and beautiful beaches. Best time to visit: September to November, March to May. Attractions: Sydney Opera House (entry fee: 42 AUD, hours: 09:00 AM - 05:00 PM), Bondi Beach (entry fee: Free, hours: 24/7). Hotels: Sydney Harbour Hotel (location: Circular Quay, price per night: 200, rating: 4.6), Backpackers Inn (location: Kings Cross, price per night: 60, rating: 3.9). Restaurants: Quay (Australian Cuisine, rating: 4.7), Chat Thai (Thai Cuisine, rating: 4.5). Travel tips: Use sunscreen to protect from the strong sun. Explore the city using public ferries for unique views.",
+    "Owner": "Tourism Board"
+  },
+  {
+    "id": "5",
+    "Department": "Tourism",
+    "Topic": "Rome",
+    "Body": "Rome is the capital city of Italy, famous for its ancient history and landmarks such as the Colosseum and Vatican City. Best time to visit: April to June, September to October. Attractions: Colosseum (entry fee: 16 EUR, hours: 08:30 AM - 07:00 PM), Vatican Museums (entry fee: 17 EUR, hours: 09:00 AM - 06:00 PM). Hotels: Hotel Roma (location: City Center, price per night: 120, rating: 4.4), Economy Inn (location: Termini Station, price per night: 75, rating: 3.7). Restaurants: La Pergola (Italian Cuisine, rating: 4.8), Trattoria Da Enzo (Casual Dining, rating: 4.6). Travel tips: Wear comfortable shoes for exploring the city. Book tickets for major attractions in advance to skip the lines.",
+    "Owner": "Tourism Board"
+  },
+  {
+    "id": "6",
+    "Department": "Tourism",
+    "Topic": "London",
+    "Body": "London is the capital city of the United Kingdom, known for its historic landmarks such as the Tower of London and Buckingham Palace. Best time to visit: March to May. Attractions: Tower of London (entry fee: 28 GBP, hours: 09:00 AM - 05:30 PM), British Museum (entry fee: Free, hours: 10:00 AM - 05:30 PM). Hotels: The Ritz (location: Mayfair, price per night: 450, rating: 4.9), Budget Stay (location: Camden, price per night: 80, rating: 4.0). Restaurants: Dishoom (Indian Cuisine, rating: 4.7), The Ledbury (Modern European Cuisine, rating: 4.8). Travel tips: Use an Oyster card for convenient travel. Visit free museums for a budget-friendly trip.",
+    "Owner": "Tourism Board"
+  },
+  {
+    "id": "7",
+    "Department": "Tourism",
+    "Topic": "Berlin",
+    "Body": "Berlin is the capital city of Germany, known for its vibrant culture and history, including the Berlin Wall and Brandenburg Gate. Best time to visit: May to September. Attractions: Berlin Wall Memorial (entry fee: Free, hours: 08:00 AM - 10:00 PM), Brandenburg Gate (entry fee: Free, hours: 24/7). Hotels: Hotel Adlon (location: Mitte, price per night: 350, rating: 4.7), City Hostel (location: Kreuzberg, price per night: 70, rating: 4.1). Restaurants: Hofbräu Berlin (German Cuisine, rating: 4.5), Restaurant Tim Raue (Asian-European Fusion, rating: 4.8). Travel tips: Rent a bike to explore the city. Visit the many parks and gardens.",
+    "Owner": "Tourism Board"
+  },
+  {
+    "id": "8",
+    "Department": "Tourism",
+    "Topic": "Barcelona",
+    "Body": "Barcelona is a major city in Spain, known for its art and architecture, particularly the Sagrada Familia and Park Güell. Best time to visit: May to June, September to October. Attractions: Sagrada Familia (entry fee: 20 EUR, hours: 09:00 AM - 08:00 PM), Park Güell (entry fee: 10 EUR, hours: 08:00 AM - 09:30 PM). Hotels: W Barcelona (location: Barceloneta, price per night: 300, rating: 4.6), Budget Rooms (location: Eixample, price per night: 60, rating: 4.0). Restaurants: Can Culleretes (Spanish Cuisine, rating: 4.7), Tickets Bar (Tapas, rating: 4.8). Travel tips: Use public transportation to get around the city. Visit attractions early to avoid crowds.",
+    "Owner": "Tourism Board"
+  },
+  {
+    "id": "9",
+    "Department": "Tourism",
+    "Topic": "Dubai",
+    "Body": "Dubai is a major city in the United Arab Emirates, known for its modern architecture, shopping, and vibrant nightlife. Best time to visit: November to March. Attractions: Burj Khalifa (entry fee: 149 AED, hours: 08:30 AM - 11:00 PM), Dubai Mall (entry fee: Free, hours: 10:00 AM - 12:00 AM). Hotels: Burj Al Arab (location: Jumeirah, price per night: 1000, rating: 4.9), Budget Lodge (location: Deira, price per night: 80, rating: 3.8). Restaurants: Al Mahara (Seafood, rating: 4.8), Zuma (Japanese Cuisine, rating: 4.7). Travel tips: Dress modestly in public areas. Use the metro for affordable transportation.",
+    "Owner": "Tourism Board"
+  },
+  {
+    "id": "10",
+    "Department": "Tourism",
+    "Topic": "Rio de Janeiro",
+    "Body": "Rio de Janeiro is a major city in Brazil, famous for its beaches, Carnival festival, and the Christ the Redeemer statue. Best time to visit: December to March. Attractions: Christ the Redeemer (entry fee: 24 BRL, hours: 08:00 AM - 07:00 PM), Copacabana Beach (entry fee: Free, hours: 24/7). Hotels: Copacabana Palace (location: Copacabana, price per night: 400, rating: 4.8), Budget Stay (location: Lapa, price per night: 50, rating: 3.9). Restaurants: Churrascaria Palace (Brazilian Cuisine, rating: 4.7), Aprazível (Contemporary Cuisine, rating: 4.6). Travel tips: Be cautious of your belongings, especially at the beach. Use official taxis or ride-sharing apps for transportation.",
+    "Owner": "Tourism Board"
+  }
+]

@@ -75,7 +75,7 @@ namespace Botina.Bots
         }
         private static async Task FillAzureAISerachWithData(SearchClient searchClient)
         {
-            string filename = "data.json";
+            string filename = "data2.json";
             string jsonString = File.ReadAllText(filename);
             var dataEntries = JsonSerializer.Deserialize<List<KnowledgeBaseEntry>>(jsonString);
 
